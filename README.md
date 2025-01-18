@@ -1,3 +1,9 @@
+## How to play?
+
+<p>
+    Open the 'EXE' directory and run the '2D Platformer 1.exe' file.
+</p>
+
 ## Demo video
 
 [132.mp4](MEDIA/132.mp4)
