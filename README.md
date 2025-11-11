@@ -17,6 +17,16 @@
 
 \* Hold up to two keys before pressing **V** to determine the direction of dashing, including diagonal.
 
+### How to win?
+
+Collect all three crystals and get to the end of a level.
+
+Watch out for enemies, spikes and cannons.
+
+Jump on enemies to kill them.
+
+Collect cherries for a bigger score.
+
 ## Demo video
 
 [132.mp4](MEDIA/132.mp4)
